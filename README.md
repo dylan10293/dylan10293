@@ -21,12 +21,6 @@ In the ever-evolving world of technology, I have had the opportunity to work on 
   
 <br>
 
-## 💼 Current Projects
-- Developing a typeracer bot to win every time.
-- Working on a collaborative project using React and Firebase
-  
-<br>
-
 ## 🌱 Learning Journey
 I am always eager to learn and explore new technologies. Currently, I am diving deeper into cloud computing and DevOps practices to enhance my skill set.
 

@@ -1,5 +1,3 @@
-![Header](background.png)
-
 # Hi there! 👋 I'm Dylan Pereira
 
 <p>I am a passionate full-stack web developer with 4 years of experience. Currently, I am pursuing my Master's in Computer Science at Pace University.

@@ -7,7 +7,7 @@ In the ever-evolving world of technology, I have had the opportunity to work on 
 ## 🚀 About Me
 * 🌐 Currently pursuing my Master's in Computer Science at Pace University
 * 💻 Over 4 years of experience in full-stack web development
-* 🎮 Valorant enthusiast (even if I'm not very good – currently rocking Platinum 3!)
+* 🎮 Valorant enthusiast (even if I'm not very good)
   
 <br>
 

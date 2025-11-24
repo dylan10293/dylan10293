@@ -32,7 +32,7 @@ Feel free to reach out! Whether you want to discuss tech, collaborate on project
 <a target="_blank" href="https://www.linkedin.com/in/thedylanpereira/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-" />
 </a>
-<a target="_blank" href="mailto:dylan.10293@gmail.com">
+<a target="_blank" href="mailto:dylanpereira0698@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-" />
 </a>
 <a target="_blank" href="https://dylanportfolio.com/">
